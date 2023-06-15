@@ -1,0 +1,6 @@
+[os]
+disabled = false
+format = "$symbol "
+symbols.Debian = " "
+symbols.Ubuntu = " "
+symbols.Windows = " "
